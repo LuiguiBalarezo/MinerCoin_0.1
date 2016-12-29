@@ -23,6 +23,10 @@
         <item name="android:background">@drawable/slct_bck_input</item>
     </style>
 
+    <style name="button_normal" parent="Widget.AppCompat.Button.Colored">
+       <item name="background">@color/colorButtonPrimary</item>
+    </style>
+
     <style name="input_aparience">
         <item name="android:textColor">@color/colorAccent</item>
         <item name="colorControlNormal">@color/colorAccent</item>

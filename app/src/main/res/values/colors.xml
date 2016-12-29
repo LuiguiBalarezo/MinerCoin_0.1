@@ -5,4 +5,5 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">@android:color/white</color>
     <color name="colorAccentTransparent">#a4f7f7f7</color>
+    <color name="colorButtonPrimary">#4888e1</color>
 </resources>

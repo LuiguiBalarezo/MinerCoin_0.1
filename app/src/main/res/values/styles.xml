@@ -10,7 +10,7 @@
 
 
     <!-- Base application theme. -->
-    <style name="AppTheme.base" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme.base" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -21,6 +21,13 @@
         <item name="android:paddingLeft">15dp</item>
         <item name="android:paddingRight">15dp</item>
         <item name="android:background">@drawable/slct_bck_input</item>
+    </style>
+
+    <style name="input_aparience">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
     </style>
 
 </resources>
